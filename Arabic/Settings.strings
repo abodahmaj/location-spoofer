@@ -1,0 +1,31 @@
+// ملف Localizable.strings - الإعدادات (Settings)
+// Settings Localization File
+
+"LOC_WIFI_PROXY_ACTIVE" = "proxy نشط عبر Wi-Fi";
+"LOC_EXTERNAL_MODE_ACTIVE" = "الوضع الخارجي نشط";
+"LOC_METERS_5" = "5 أمتار";
+"LOC_METERS_10" = "10 أمتار";
+"LOC_METERS_20" = "20 متر";
+"LOC_METERS_30" = "30 متر";
+"LOC_METERS_50" = "50 متر";
+"LOC_CUSTOM_ACCURACY" = "دقة مخصصة...";
+
+// تنبيهات الإعدادات
+"LOC_SAVE_SETTINGS_TITLE" = "حفظ التغييرات";
+"LOC_RESET_TO_DEFAULT" = "إعادة تعيين للإعدادات الافتراضية";
+"LOC_CLEAR_CACHE" = "مسح ذاكرة التخزين المؤقت";
+"LOC_EXPORT_CONFIG" = "تصدير التكوين";
+"LOC_IMPORT_CONFIG" = "استيراد التكوين";
+"LOC_BACKUP_CREATED" = "تم إنشاء نسخة احتياطية بنجاح";
+
+// خيارات الخصوصية
+"LOC_PRIVACY_POLICY" = "سياسة الخصوصية";
+"LOC_TERMS_OF_SERVICE" = "شروط الخدمة";
+"LOC_DATA_COLLECTION" = "جمع البيانات";
+"LOC_LOCATION_HISTORY" = "سجل الموقع";
+
+// إعدادات الشبكة
+"LOC_NETWORK_SETTINGS" = "إعدادات الشبكة";
+"LOC_PROXY_PORT" = "بورت proxy: 8888";
+"LOC_SSL_ENABLED" = "SSL مفعّل";
+"LOC_TLS_VERSION" = "إصدار TLS: 1.3";
